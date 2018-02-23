@@ -16,6 +16,10 @@ h2 {
   color: white;
 }
 
+img {
+  height: 250px;
+}
+
 .price {
   font-weight: bold;
   color: blue;
